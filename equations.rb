@@ -2,6 +2,9 @@ def addition(num1, num2)
   num1 + num2
 end
 
+addition(5, 2)
+
+
 def subtraction(num1, num2)
   num1 - num2
 end
@@ -22,5 +25,4 @@ def square_root(num)
   Math.sqrt(num)
 end
 
-num1 = 5
-num2 = 2 
+ 
